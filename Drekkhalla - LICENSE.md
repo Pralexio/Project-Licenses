@@ -10,9 +10,9 @@ Drekkhalla est un **jeu vidéo propriétaire** développé par **Pralex Studios*
 - ✅ **Streaming & Contenu Vidéo** : Les créateurs de contenu sont autorisés à diffuser du gameplay, tant que cela respecte les conditions générales du studio.
 - ❌ **Aucune modification du jeu** (hacking, extraction d'assets, etc.) n'est autorisée sans permission explicite.
 
-## 3️⃣ MODDING & RÉTRO-INGÉNIERIE
+## 3️⃣ MODDING & REVERSE ENGINEERING
 - Drekkhalla **ne prend pas officiellement en charge les mods** pour l’instant.
-- Toute tentative de **décompilation, modification ou reverse-engineering** du code source est interdite.
+- Toute tentative de **décompilation, modification ou reverse engineering** du code source est interdite.
 
 ## 4️⃣ RESPONSABILITÉ & SUPPORT
 - Le jeu est fourni **"tel quel"**, sans garantie explicite ou implicite.
@@ -23,7 +23,7 @@ Drekkhalla est un **jeu vidéo propriétaire** développé par **Pralex Studios*
 - Pralex Studios se réserve le droit de modifier, mettre à jour ou retirer du contenu du jeu à tout moment sans préavis.
 
 ### 📬 CONTACT :
-Pour toute question, contactez-nous via **[Pralexio.pro@gmail.com]**.
+Pour toute question, contactez-nous via **[Pralexio.pro@gmail.com](mailto:Pralexio.pro@gmail.com)**.
 
 ---
 🛠️ **Dernière mise à jour** : 31 Janvier 2025
